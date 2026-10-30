@@ -142,7 +142,14 @@ plt.show()
 
 <img width="504" height="599" alt="548777043-790ba04f-8873-4f4f-92a7-5d9c9ffb9d88" src="https://github.com/user-attachments/assets/548ee2e4-e254-45b7-a0bf-9b3acfa86659" />
 
+
+
+
 <img width="952" height="612" alt="548777356-460b1386-8d4a-4cee-a5e0-180fe2a96c2f" src="https://github.com/user-attachments/assets/fede6312-1c72-4ece-aaaf-27965e04d111" />
+
+
+
+
 
 
 <img width="417" height="423" alt="548777386-1b08de75-3d40-434b-bd70-0f10973be435" src="https://github.com/user-attachments/assets/2f71d4e0-0de7-4a45-ad9e-cd1a2b77c5f9" />
